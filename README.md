@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RTRAlan
+- 👀 I’m interested in web design.
+- 🌱 I’m currently learning css/bootstrap.
